@@ -1,0 +1,17 @@
+{
+  "name": "Consola-interactiva",
+  "version": "0.0.1",
+  "description": "Esta es una aplicacion de consola",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Roman Rodriguez Solorzano",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.1.1",
+    "uuid": "^8.3.2"
+  }
+}
